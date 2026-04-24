@@ -6,7 +6,7 @@ Altair slc powershell calculating and validating file hash using different algor
 
     Altair slc powershell calculating and validating file hash checksum using different algorithms
 
-    [SIEMENS FORUM](https://github.com/rogerjdeangelis/utl-altair-slc-powershell-calculating-and-validating-file-hash-using-different-algorithms)
+    [GITHUB](https://github.com/rogerjdeangelis/utl-altair-slc-powershell-calculating-and-validating-file-hash-using-different-algorithms)
     https://github.com/rogerjdeangelis/utl-altair-slc-powershell-calculating-and-validating-file-hash-using-different-algorithms
 
     [SIEMENS POST](https://support.industry.siemens.com/cs/document/109806390/ruggedcom-rox-ii-hash-checksums-?dti=0&lc=en-US)
